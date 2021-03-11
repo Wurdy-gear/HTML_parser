@@ -22,8 +22,9 @@ public class App {
             e.printStackTrace();
         }
 
-        System.out.println(text);
 
+        System.out.println(text);
+        System.out.println(text);
 
     }
 }

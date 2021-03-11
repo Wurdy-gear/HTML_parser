@@ -24,7 +24,7 @@ public class App {
 
 
         System.out.println(text);
-
+        System.out.println(text);
 
     }
 }
